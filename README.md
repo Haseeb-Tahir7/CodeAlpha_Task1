@@ -1,1 +1,2 @@
 # CodeAlpha_Task1
+I created a Course class to store grade and credit hours, and a Student class to manage multiple courses. The program takes course input from the user and calculates total grade points and credits. Then, CGPA is calculated by dividing total grade points by total credit hours. A simple vector was used to store courses, making iteration and display easy. The logic was straightforward, with a focus on input validation and clean output. Keeping things simple made the CGPA logic easy to implement and understand.
